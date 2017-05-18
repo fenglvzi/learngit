@@ -5,3 +5,7 @@ creating a new branch is so easy!,ÓÐµÄÊ±Ê±ºò £¬ËýËùËµµÄ»°¶¼ÊÇ·Ç³£Ó×ÖÉµÄ£¬ÎÒÒ²²»Ö
 ×¼ÎÒ£¬È»ºóÒ»ÂÖÆëÉä½«ÎÒ´òµÃÌåÎÞÍê·ô¡£ÔÚÕâÑùµÄÇé¿öÏÂ£¬ÎÒÑø³ÉÁË²»Ëµ»°µÄÏ°¹ß£¬ÔÚËýËùËµËù×öµÄÊÂÇéÓÐ²»Í×µÄµØ·½µÄÊ±ºò·Ç¹ýÓÚ¿´²»ÏÂÈ¥ÎÒÊÇ²»»áÈ¥·¢±í¿´·¨µÄ¡£
 	ÕâÑù×öµÄÈ±µãÒ²ÊÇ·Ç³£µÃµÄÃ÷ÏÔ£¬Ò²¿ÉÒÔËµÊÇÊ§È¥ÁË×Ô¼ºµÄ¼ÛÖµ£¬½«×Ô¼ºµÄÕæÊµÏë·¨Òþ²ØÆðÀ´ÕæÊÇÒ»¼þ·Ç³£ÄÑÊÜµÄÊÂÇé£¬ÎÒÒ²²»ÖªµÀÊ²Ã´Ê±ºòÄÜ¹»·¢±íÏÂ×Ô¼ºµÄµÄ¿´£¬
 ¿ÉÒÔËµÊÇ·Ç³£Ð¡ÐÄÑÛµÄÒ»¸öÈË£¬ËùÓÐÊÂÇé¶¼ÒªË³×ÅËýµÄÏë·¨£¬²»È»¿Ï¶¨»áÕ¨£¬Àâ½Ç·ÖÃ÷£¬»òÕßËµÊÇ»ëÉí´ø´Ì£¬ÁîÈËÄÑÒÔ½Ó½ü¡£
+
+
+
+create a  new branch for and simple
